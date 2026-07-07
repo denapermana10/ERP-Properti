@@ -1,0 +1,6 @@
+{
+  "name": "RR Property ERP",
+  "description": "Enterprise Property Developer ERP featuring Master Projects, Interactive Siteplans, CRM Leads pipelines, SPU/SPR Document Generation, Legal Checklist Trackers, Technical & Warehouse management, Financial Ledgers, and Server-Side Gemini AI Analytics and Chatbots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
